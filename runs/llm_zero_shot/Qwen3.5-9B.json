@@ -1,0 +1,30 @@
+{
+ "model": "Qwen/Qwen3.5-9B",
+ "eval": {
+  "banking77": {
+   "acc": 0.6957792207792208,
+   "n": 3080,
+   "options": 77
+  },
+  "trec": {
+   "acc": 0.864,
+   "n": 500,
+   "options": 6
+  },
+  "sms_spam": {
+   "acc": 0.9337349397590361,
+   "n": 1494,
+   "options": 2
+  },
+  "emotion": {
+   "acc": 0.5665,
+   "n": 2000,
+   "options": 6
+  },
+  "ag_news": {
+   "acc": 0.866,
+   "n": 2000,
+   "options": 4
+  }
+ }
+}

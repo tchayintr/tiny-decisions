@@ -1,0 +1,12 @@
+[project]
+name = "2026-10-02-tiny-decision-model"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=3.0.6",
+    "playwright==1.63.0",
+    "pyarrow>=25.0.1",
+    "scikit-learn>=1.9.1",
+    "sentence-transformers>=6.1,<6.2",
+    "vllm>=0.30.0",
+]

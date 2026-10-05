@@ -1,0 +1,13 @@
+# downloads (datasets, model weights) and the tokenized web text; our tokenizer stays
+/data/*
+!/data/tokenizer.json
+/models/
+# trained weights and logs; the results are the JSON files in runs/
+/runs/checkpoints/
+/runs/logs/
+# scratch and machine-specific files
+/.tmp/
+/.venv
+/uv.toml
+__pycache__/
+*.pyc

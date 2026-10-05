@@ -1,0 +1,16 @@
+{
+ "model": "hotchpotch/bekko-system-one-v0-17m",
+ "revision": "b886a1f9b91f4e8368d7830080d52d955e2c8dfa",
+ "trec": {
+  "n_test": 250,
+  "zero_shot": 0.464,
+  "note": "task not in its training data"
+ },
+ "sms_spam": {
+  "n_test": 747,
+  "zero_shot": 0.6720214190093708,
+  "note": "task in its training data"
+ },
+ "cpu": "Intel(R) Xeon(R) Platinum 8468",
+ "cpu_ms": 14.72
+}

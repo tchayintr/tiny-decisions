@@ -1,0 +1,11 @@
+{
+ "model": "convaiinnovations/laya (English)",
+ "sms_spam": {
+  "n_test": 747,
+  "zero_shot": 0.9250334672021419
+ },
+ "trec": {
+  "n_test": 250,
+  "zero_shot": 0.816
+ }
+}

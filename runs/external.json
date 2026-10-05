@@ -1,0 +1,8 @@
+{
+ "jev": {
+  "name": "Jev (TypeSafe AI)",
+  "p50_ms": [236, 276],
+  "how": "closed API, third-party benchmarks, one question per call, network included; not runnable here",
+  "source": "github.com/AbdelStark/jev-benchmarks, github.com/nibzard/decision-model-benchmark (as cited in the Laya model card, huggingface.co/convaiinnovations/laya)"
+ }
+}

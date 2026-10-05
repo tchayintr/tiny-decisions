@@ -1,0 +1,37 @@
+{
+ "model": "ettin-17m",
+ "params": 16863489,
+ "train_minutes": 2.4,
+ "eval": {
+  "banking77": {
+   "acc": 0.4327922077922078,
+   "n": 3080,
+   "options": 77,
+   "chance": 0.012987012987012988
+  },
+  "trec": {
+   "acc": 0.226,
+   "n": 500,
+   "options": 6,
+   "chance": 0.16666666666666666
+  },
+  "sms_spam": {
+   "acc": 0.4959839357429719,
+   "n": 1494,
+   "options": 2,
+   "chance": 0.5
+  },
+  "emotion": {
+   "acc": 0.506,
+   "n": 2000,
+   "options": 6,
+   "chance": 0.16666666666666666
+  },
+  "ag_news": {
+   "acc": 0.62,
+   "n": 2000,
+   "options": 4,
+   "chance": 0.25
+  }
+ }
+}

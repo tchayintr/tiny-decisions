@@ -1,0 +1,10 @@
+{
+ "cpu": "Intel(R) Xeon(R) Platinum 8468",
+ "threads": 1,
+ "items": "banking77_5opt",
+ "ms": {
+  "ettin-17m": 6.03,
+  "laya": 394.7,
+  "qwen3.5-0.8b": 1650.4
+ }
+}
